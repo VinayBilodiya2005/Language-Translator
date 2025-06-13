@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "460086199572",
+    "project_id": "languatranslator",
+    "storage_bucket": "languatranslator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460086199572:android:f5106a174f7521b24cae01",
+        "android_client_info": {
+          "package_name": "com.example.languatranslator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnSvyvkvSxkLBh3tP49iYjt4LFKr4fyp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
